@@ -1,0 +1,14 @@
+﻿  customer.cpp
+  funkcje.cpp
+C:\Users\micha\OneDrive\Pulpit\projektPK2\projektPK2\funkcje.cpp(137,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\micha\OneDrive\Pulpit\projektPK2\projektPK2\funkcje.cpp(152,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  order.cpp
+  reservation.cpp
+  restaurant.cpp
+  restaurantWithOrders.cpp
+C:\Users\micha\OneDrive\Pulpit\projektPK2\projektPK2\restaurantWithOrders.cpp(122,34): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  restaurantWithoutOrders.cpp
+  table.cpp
+  Generowanie kodu...
+  projektPK2.vcxproj -> C:\Users\micha\OneDrive\Pulpit\projektPK2\Debug\projektPK2.exe

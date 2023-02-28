@@ -1,0 +1,10 @@
+Stolik nr.1:
+Stolik nr.2:
+Klient: Jan Kowalski 213331133
+Data: Godziny: Stolik nr.3:
+Stolik nr.4:
+Klient: Adrian Pirog 123456789
+Data: Godziny: Stolik nr.5:
+Klient: Patryk Dabrowki 432123645
+Data: Godziny: Klient: Andrzej Matyjaszczyk 897485652
+Data: Godziny: Stolik nr.6:
